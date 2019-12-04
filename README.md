@@ -7,7 +7,7 @@
 
 Enter the max number and press the key [ENTER]
 
-### 2-2 Date Random
+### 1-2 Date Random
 
 * Usage:
 
